@@ -1,0 +1,21 @@
+.impar {
+    background-color: rgba(200, 0, 0, 0.5);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cuarto {
+    font-size: 24px;
+}
+#id {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+    
+}
+#id2 {
+    background-color: rgb(0, 255, 0);
+    
+    font-weight: bold;
+}
+.tamano-fuente{
+    font-size: 24px;
+}
